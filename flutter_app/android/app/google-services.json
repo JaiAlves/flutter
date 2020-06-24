@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970894926550",
+    "firebase_url": "https://loja-virtual-sistemasja.firebaseio.com",
+    "project_id": "loja-virtual-sistemasja",
+    "storage_bucket": "loja-virtual-sistemasja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970894926550:android:0b70bc84f91752e8e4df77",
+        "android_client_info": {
+          "package_name": "br.com.sistemasja.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970894926550-9geea473q9ma8finqeg5mnqieqac7o1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6069FtPyeZ5dDTPw-5BuTnyE-ZCizhUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970894926550-9geea473q9ma8finqeg5mnqieqac7o1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
